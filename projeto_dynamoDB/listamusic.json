@@ -1,0 +1,34 @@
+{
+    "Music": [
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Raça Negra"},
+                  "SongTitle": {"S": "Cheia de Manias"},
+                  "AlbumTitle": {"S": "Raça Negra e Amigos"},
+                  "SongYear": {"S": "2017"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Raça Negra"},
+                  "SongTitle": {"S": "Estou Mal"},
+                  "AlbumTitle": {"S": "Raça Negra e Amigos"},
+                  "SongYear": {"S": "2017"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "Raça Negra"},
+                  "SongTitle": {"S": "Quando te Encontrei"},
+                  "AlbumTitle": {"S": "Raça Negra e Amigos"},
+                  "SongYear": {"S": "2017"}
+                }
+            }
+        }
+      ]
+}
